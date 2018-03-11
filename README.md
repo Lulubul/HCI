@@ -8,10 +8,11 @@ Street Figher II resurrection with:
  - https://www.youtube.com/watch?v=xI284D4y1q4
 
 # Documentation 
-
+ - link
 # Various personas interacting to the system
  - link
- 
 # Branding
- 
+ - link
+# QOC
+ - link
 
