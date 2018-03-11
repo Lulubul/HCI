@@ -7,5 +7,11 @@ Street Figher II resurrection with:
  - https://www.youtube.com/watch?v=yR4b04s_c9w
  - https://www.youtube.com/watch?v=xI284D4y1q4
 
-# Various personas interacting to the system ( [template](https://profs.info.uaic.ro/~stefan.negru/personas/) ) 
+# Documentation 
+
+# Various personas interacting to the system
  - link
+ 
+# Branding
+ 
+
