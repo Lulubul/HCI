@@ -4,8 +4,8 @@ Street Figher II resurrection with:
  - https://developer.vuforia.com/
  
  Inspiration:
- https://www.youtube.com/watch?v=yR4b04s_c9w
- https://www.youtube.com/watch?v=xI284D4y1q4
+ - https://www.youtube.com/watch?v=yR4b04s_c9w
+ - https://www.youtube.com/watch?v=xI284D4y1q4
 
 # Various personas interacting to the system ( [template](https://profs.info.uaic.ro/~stefan.negru/personas/) ) 
  - link
