@@ -1,7 +1,3 @@
-# HCI
-Human computer intraction experiment
+# Human computer intraction AR experiment
+Street Figher II resurrection with https://unity3d.com/ and https://developer.vuforia.com/
 
-# Street Figher II 
-https://unity3d.com/
-https://developer.vuforia.com/
-https://www.youtube.com/watch?v=xI284D4y1q4
