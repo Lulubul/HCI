@@ -9,8 +9,7 @@ Street Figher II resurrection with:
 
 # Documentation 
  - link
-# Various personas interacting to the system
- - link
+# [Various personas interacting to the system] (https://github.com/Lulubul/HCI/blob/master/Personas/GamiconPersonas.html)
 # Branding
  - link
 # QOC
