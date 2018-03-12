@@ -8,7 +8,7 @@ Street Figher II resurrection with:
  - https://www.youtube.com/watch?v=xI284D4y1q4
 
 # Documentation 
- - [personas](https://github.com/Lulubul/HCI/blob/master/Personas/GamiconPersonas.html)
- - [branding](https://github.com/Lulubul/HCI/edit/master/README.md)
+ - [Personas](https://github.com/Lulubul/HCI/blob/master/Personas/GamiconPersonas.html)
+ - [Branding](https://github.com/Lulubul/HCI/edit/master/README.md)
  - [QOC](https://github.com/Lulubul/HCI/edit/master/README.md)
 
