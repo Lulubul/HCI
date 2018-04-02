@@ -8,7 +8,7 @@ Street Figher II resurrection with:
  - https://www.youtube.com/watch?v=xI284D4y1q4
 
 # UX Design
- - [Ideas/concepts (including the sketches, wireframes, storyboards)] (https://github.com/Lulubul/HCI/edit/master/README.md)
+ - [Design concepts (including the sketches, wireframes, storyboards)] (https://github.com/Lulubul/HCI/edit/master/README.md)
  - [Personas](https://github.com/Lulubul/HCI/blob/master/Personas/PersonasGamicon.pdf)
  - [Branding (Typography, Fonts, Icons)](https://github.com/Lulubul/HCI/edit/master/README.md)
  - [QOC](https://github.com/Lulubul/HCI/edit/master/README.md)
