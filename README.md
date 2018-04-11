@@ -1,7 +1,3 @@
----
-description: Human computer interaction AR experiment
----
-
 # Street Figher resurrection
 
 ## Human computer interaction AR experiment
