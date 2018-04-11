@@ -8,7 +8,7 @@ Street Figher II resurrection with [Vuforia ](https://developer.vuforia.com/)and
 
 ## UX Design
 
-* [Sketches, wireframes and storyboards](https://github.com/Lulubul/HCI/edit/master/README.md)
+* [Sketches, wireframes and storyboards](https://hci.gitbook.io/gamion/~/edit/primary/gamicon)
 * [Personas](https://github.com/Lulubul/HCI/blob/master/Personas/PersonasGamicon.pdf)
 * [Branding \(Typography, Fonts, Icons\)](https://github.com/Lulubul/HCI/edit/master/README.md)
 * [QOC](https://github.com/Lulubul/HCI/edit/master/README.md)
