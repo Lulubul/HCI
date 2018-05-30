@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dan\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Gamion.-292321683.00" t="ExcludeRecursive" />
+    <e p="D:\Informatica\Master\Gamion" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Common" t="Include">
+          <e p="CameraSettings.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="ConfigurePlayerSettings.cs" t="Include" />
+          </e>
+          <e p="FrameRateSettings.cs" t="Include" />
+          <e p="InitErrorHandler.cs" t="Include" />
+          <e p="MenuAnimator.cs" t="Include" />
+          <e p="MenuOptions.cs" t="Include" />
+          <e p="SplashAbout" t="Include">
+            <e p="AboutScreen.cs" t="Include" />
+            <e p="AsyncSceneLoader.cs" t="Include" />
+            <e p="LoadingScreen.cs" t="Include" />
+          </e>
+          <e p="TapHandler.cs" t="Include" />
+          <e p="TrackableSettings.cs" t="Include" />
+        </e>
+        <e p="Editor" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="CylinderTargetTextures" t="Include">
+              <e p="VuforiaMars_Images" t="Include">
+                <e p="authoringinfo.xml" t="Include" />
+              </e>
+            </e>
+            <e p="Emulator" t="Include">
+              <e p="VuforiaEmulator.xml" t="Include" />
+            </e>
+            <e p="ForPrint" t="Include">
+              <e p="ModelTarget" t="Include">
+                <e p="readme_3dprint.txt" t="Include" />
+              </e>
+            </e>
+            <e p="SampleOrientationSetter.cs" t="Include" />
+            <e p="TargetsetData" t="Include">
+              <e p="VuforiaMars_Object_info.xml" t="Include" />
+            </e>
+            <e p="VuforiaMars_ModelTarget" t="Include">
+              <e p="authoringinfo.xml" t="Include" />
+            </e>
+            <e p="VuforiaMars_VuMark" t="Include">
+              <e p="authoringinfo.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="GameManager.cs" t="Include" />
+        <e p="SamplesResources" t="Include">
+          <e p="AugmentationAssets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Augmentations" t="Include">
+                <e p="Astronaut.cs" t="Include" />
+                <e p="Augmentation.cs" t="Include" />
+                <e p="Drone.cs" t="Include" />
+                <e p="Fissure.cs" t="Include" />
+                <e p="Habitat.cs" t="Include" />
+                <e p="OxygenTank.cs" t="Include" />
+                <e p="RockPileController.cs" t="Include" />
+              </e>
+              <e p="InteractionHelpers" t="Include">
+                <e p="DrillController.cs" t="Include" />
+                <e p="FadeObject.cs" t="Include" />
+              </e>
+              <e p="StateMachineBehaviours" t="Include">
+                <e p="AstronautStateMachineBehaviour.cs" t="Include" />
+                <e p="AugmentationStateMachineBehaviour.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="CloudReco" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CloudRecoContentManager.cs" t="Include" />
+              <e p="CloudRecoEventHandler.cs" t="Include" />
+              <e p="CloudRecoTrackableEventHandler.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="CloudRecoEventHandlerEditor.cs" t="Include" />
+              </e>
+              <e p="ScanLine.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CR_Custom_TransparentUnlit.shader" t="Include" />
+            </e>
+          </e>
+          <e p="CylinderTargets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="RotateAroundCylinder.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ImageTargets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ModelSwap.cs" t="Include" />
+              <e p="VideoController.cs" t="Include" />
+              <e p="VideoTrackableEventHandler.cs" t="Include" />
+            </e>
+          </e>
+          <e p="MultiTargets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="MultiTargetTrackableEventHandler.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ObjectReco" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ObjectRecoTrackableEventHandler.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UserDefinedTargets" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="UDTEventHandlerEditor.cs" t="Include" />
+              </e>
+              <e p="FrameQualityMeter.cs" t="Include" />
+              <e p="QualityDialog.cs" t="Include" />
+              <e p="UDTEventHandler.cs" t="Include" />
+              <e p="UDTSettings.cs" t="Include" />
+            </e>
+          </e>
+          <e p="VirtualButtons" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="VirtualButtonEventHandler.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Gradient.shader" t="Include" />
+            </e>
+          </e>
+          <e p="VuforiaSamplesUI" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="OptionsConfigEditor.cs" t="Include" />
+              </e>
+              <e p="OptionsConfig.cs" t="Include" />
+              <e p="SamplesAboutScreenInfo.cs" t="Include" />
+              <e p="SamplesLoadingScreen.cs" t="Include" />
+              <e p="SamplesMainMenu.cs" t="Include" />
+              <e p="SamplesNavigationHandler.cs" t="Include" />
+              <e p="SamplesTapHandler.cs" t="Include" />
+            </e>
+          </e>
+          <e p="VuMark" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="PanelShowHide.cs" t="Include" />
+              <e p="VuMarkHandler.cs" t="Include" />
+              <e p="VuMarkTrackableEventHandler.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SapphiArt" t="Include">
+          <e p="SapphiArtchan" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="AnimationManagerUI.cs" t="Include" />
+              <e p="SapphiArtChan_AnimManager.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="HeroesFactory.cs" t="Include" />
+          <e p="HeroSelection.cs" t="Include" />
+          <e p="MarkerPlacer.cs" t="Include" />
+          <e p="SceneNavigationManager.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="VuforiaMars_Images.xml" t="Include" />
+            <e p="VuforiaMars_ModelTarget.xml" t="Include" />
+            <e p="VuforiaMars_Object_OT.xml" t="Include" />
+            <e p="VuforiaMars_VuMark.xml" t="Include" />
+          </e>
+        </e>
+        <e p="UnityChan" t="Include">
+          <e p="license.txt" t="Include" />
+          <e p="Models" t="Include">
+            <e p="UnityChanShader" t="Include">
+              <e p="Shader" t="Include">
+                <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+                <e p="Unitychan_chara_eye.shader" t="Include" />
+                <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+                <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+                <e p="Unitychan_chara_fuku.shader" t="Include" />
+                <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+                <e p="Unitychan_chara_hada.shader" t="Include" />
+                <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+                <e p="Unitychan_chara_hair.shader" t="Include" />
+                <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="FaceUpdate.cs" t="Include" />
+            <e p="IdleChanger.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
+            <e p="ThirdPersonCamera.cs" t="Include" />
+            <e p="UnityChanControlScriptWithRgidBody.cs" t="Include" />
+          </e>
+          <e p="Stage" t="Include">
+            <e p="Shader" t="Include">
+              <e p="AlphaMask.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Vuforia" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="OpenSourceInitializer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="DefaultInitializationErrorHandler.cs" t="Include" />
+            <e p="DefaultTrackableEventHandler.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="BrightTexture.shader" t="Include" />
+            <e p="CameraDiffuse.shader" t="Include" />
+            <e p="ColoredLines.shader" t="Include" />
+            <e p="DepthContour.shader" t="Include" />
+            <e p="DepthMask.shader" t="Include" />
+            <e p="OutlineOpaque.shader" t="Include" />
+            <e p="Text3D.shader" t="Include" />
+            <e p="VertexLitWithZ.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Gamion.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

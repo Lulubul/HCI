@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://w3c.github.io/scholarly-html/ -->
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Gamion Provided Solution</title>
+  <link rel="stylesheet" href="./Scholarly HTML_files/scholarly.min.css">
+</head>
+
+<body prefix="schema: http://schema.org">
+  <header>
+    <h1>Gamion Provided Solution</h1>
+  </header>
+  <div role="contentinfo">
+    <ol role="directory">
+      <li>
+        <a href="#abstract">
+          <span>1. </span>Abstract</a>
+      </li>
+      <li>
+        <a href="#introduction">
+          <span>2. </span>Introduction</a>
+      </li>
+      <li>
+        <a href="#arhitecture">
+          <span>3. </span>Solution Arhitecture</a>
+      </li>
+      <li>
+        <a href="#conclusion">
+          <span>4. </span>Conclusion</a>
+      </li>
+      <li>
+        <a href="#biblio-references">
+          <span>5. </span>References</a>
+      </li>
+    </ol>
+    <dl>
+      <dt>Authors</dt>
+      <dd>
+        <a href="http://robertunguru.com/">Daniel Unguru</a>
+      </dd>
+      <dt>License</dt>
+      <dd>
+        <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY</a>
+      </dd>
+    </dl>
+  </div>
+  <section typeof="sa:Abstract" id="abstract" role="doc-abstract">
+    <h2>
+      <span>1. </span>Abstract</h2>
+    <p>
+      Gamicon is a modern version Street Figher resurrected using natural I/O devices and interaction methods with help of with
+      Vuforia and Unity3d:
+    </p>
+    <p> Keywords: Interaction methods; Vuforia; Human Computer Interaction; Augumented Reality. </p>
+  </section>
+  <section id="introduction" role="doc-introduction">
+    <h2>
+      <span>2. </span>Introduction</h2>
+    <p>
+      Augmented reality has come a long way from a science-fiction concept to a science-based reality. Until recently the costs of augmented reality were so substantial that designers could only dream of working on design projects that involved it – today things have changed and augmented reality is even available on the mobile handset. That means design for augmented reality is now an option for all shapes and sizes of UX designers.
+    </p>
+    <p>
+      There are many uses for augmented reality targets in an application. Usually, a user simply wants to display some form of content on top or around of an AR target.  Sometimes though, the need will arise for multiple AR targets to interact with each other.  These can be multiple ImageTargets, multiple MultiTargets or a mixture of both.  If you are going to be using multiple targets together to achieve some kind of game mechanic, for example, if a GameObject attached to one AR target gets close to another GameObject parented to another AR target , you need to keep in mind that when setting up targets inside of Unity you need to assign the size of the target correctly.
+    </p>
+   
+  </section>
+  <section id="arhitecture" role="doc-arhitecture">
+    <h2>
+      <span>3. </span>Solution Arhitecture
+    </h2>
+    <p>
+      Vuforia SDK provides cross-platform support for Android, iOS, and UWP devices, through a single API, allowing developers to write their apps once and run them using the best available core technology.
+    </p>
+    <ul>
+      <li>Main features of Vuforia.</li>
+      <img src="images/vuforiaFeatures.JPG" alt="Vuforia Feautures" width="700px"/>
+      <li>Vuforia SDK Arhitecture.</li>
+      <img src="images/vuforiaSDK.jpg" alt="VuforiSDK"/>
+    </ul>
+    <p>
+      With the Unity and Vuforia workflow, Unity developers can create Vuforia-enabled apps using a simple authoring workflow and event-driven scripting directly in the Unity Editor. The Vuforia integration includes performance optimizations, tight ongoing synchronization of features and fixes, and a native Unity workflow that enables developers to focus on creating the best AR experiences.
+    </p>
+    <ul>
+      <li>Game Arhitecture Simplified.</li>
+      <img src="images/GameArhitecture.jpg" alt="GameArhitecture" width="700px"/>
+      <li>Unity Engine arhitecture Simplified.</li>
+      <img src="images/unityEngine.jpg" alt="UnityEngine"/>
+    </ul>
+    
+  </section>
+  <section id="conclusion" role="doc-conclusion">
+    <h2>
+      <span>4. </span>Conclusion
+    </h2>
+    <p>
+      AR or augmented reality has gone from pipe dream to reality in just over a century. There are many AR applications in use or under development today, however – the concept will only take off universally when UX designers think about how they can integrate AR with daily life to improve productivity, efficiency or quality of experiences. 
+    </p>
+  </section>
+  <section id="biblio-references">
+    <h2>
+      <span>5. </span>References</h2>
+    <dl>
+      <dt id="augumented-reality">Augumented Reality</dt>
+      <dd property="schema:citation" typeof="schema:ScholarlyArticle" resource="https://www.vuforia.com/">
+        <cite property="schema:name">
+          <a href="https://www.vuforia.com/">Vuforia</a>
+        </cite>, by
+        <span property="schema:author" typeof="schema:Person">
+          <span property="schema:name">PTC Inc.</span>
+        </span>;
+        <!-- <time property="schema:datePublished" datetime="2014-03" datatype="xsd:gYearMonth">2014 Mar</time>. -->
+      </dd>
+      <dd property="schema:citation" typeof="schema:ScholarlyArticle" resource="https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future">
+        <cite property="schema:name">
+          <a href="https://www.interaction-design.org/literature/article/augmented-reality-the-past-the-present-and-the-future">Augmented Reality – The Past, The Present and The Future</a>
+        </cite>, by
+        <span property="schema:author" typeof="schema:Person">
+          <span property="schema:name">Interaction Design Fuondation.</span>
+        </span>;
+        <time property="schema:datePublished" datetime="2014-03" datatype="xsd:gYearMonth">2018 May</time>.
+      </dd>
+    </dl>
+    <dl>
+      <dt id="game-engine">Game Engine</dt>
+      <dd property="schema:citation" typeof="schema:ScholarlyArticle" resource="https://unity3d.com/">
+        <cite property="schema:name">
+          <a href="https://unity3d.com/">Unity3d</a>
+        </cite>, by
+        <span property="schema:author" typeof="schema:Person">
+          <span property="schema:name">Unity Technologies</span>
+        </span>;
+        <!-- <time property="schema:datePublished" datetime="2014-03" datatype="xsd:gYearMonth">2014 Mar</time>. -->
+      </dd>
+      <dd property="schema:citation" typeof="schema:ScholarlyArticle" resource="https://www.gamasutra.com/view/feature/132587/book_excerpt_game_engine_.php">
+        <cite property="schema:name">
+          <a href="https://www.gamasutra.com/view/feature/132587/book_excerpt_game_engine_.php">Book Excerpt: Game Engine Architecture</a>
+        </cite>, by
+        <span property="schema:author" typeof="schema:Person">
+          <span property="schema:name">UBM - Gamasutra</span>
+        </span>;
+        <time property="schema:datePublished" datetime="2014-03" datatype="xsd:gYearMonth">2009 November</time>
+      </dd>
+    </dl>
+  </section>
+</body>
+
+</html>
