@@ -13,3 +13,4 @@ Street Figher II resurrection with [Vuforia ](https://developer.vuforia.com/)and
 * [Branding \(Typography, Fonts, Icons\)](branding.md)
 * [QOC](qoc.md)
 
+See more at https://hci.gitbook.io/gamion/
