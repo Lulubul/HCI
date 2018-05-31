@@ -12,7 +12,7 @@
 
 <body prefix="schema: http://schema.org">
   <header>
-    <h1>Application User Guide</h1>
+    <h1>Gamion User Guide</h1>
   </header>
   <div role="contentinfo">
     <ol role="directory">
@@ -22,19 +22,27 @@
       </li>
       <li>
         <a href="#introduction">
-          <span>2. </span>Introduction</a>
+          <span>2. </span>System requirments</a>
       </li>
       <li>
-        <a href="#arhitecture">
-          <span>3. </span>Information Architecture. From Design Patterns to Visual Design</a>
+        <a href="#install">
+          <span>3. </span>Install instructions</a>
+        </li>
+      <li>
+        <a href="#login">
+          <span>4. </span>Login to the Gamicon</a>
       </li>
       <li>
-        <a href="#conclusion">
-          <span>4. </span>Conclusion</a>
+        <a href="#selection">
+          <span>5. </span>Choose character</a>
       </li>
       <li>
-        <a href="#biblio-references">
-          <span>5. </span>References</a>
+        <a href="#play">
+          <span>6. </span>Play Start</a>
+      </li>
+      <li>
+        <a href="#faq">
+          <span>7. </span>Frequently asked questions</a>
       </li>
     </ol>
     <dl>
@@ -55,61 +63,74 @@
       Gamicon is a modern version Street Figher resurrected using natural I/O devices and interaction methods with help of with
       Vuforia and Unity3d:
     </p>
-    <p> Keywords: Interaction methods; Vuforia; Human Computer Interaction; Augumented Reality. </p>
   </section>
   <section id="introduction" role="doc-introduction">
     <h2>
-      <span>2. </span>Introduction</h2>
+      <span>2. </span>System requirments</h2>
     <p>
-      Effective interfaces are visually apparent and forgiving, instilling in their users a sense of control. Users quickly see the breadth of their options, grasp how to achieve their goals, and can settle down to do their work. Effective interfaces do not concern the user with the inner workings of the system. Work is carefully and continuously saved, with full option for the user to undo any activity at any time. Effective applications and services perform a maximum of work, while requiring a minimum of information from users.
+      A smartphone or table with the following requirments:
     </p>
+    <ul>
+      <li>Android 6;</li>
+      <li>Ram memory 2 GB;</li>
+      <li>1 GB Storage;</li>
+      <li>Foto camera 13 MP.</li>
+    </ul>
+    <p> Note: The Astranoaut marker should be also printed</p>
+    <img src="images/Astronaut.JPG" alt="marker"/>
   </section>
-  <section id="arhitecture" role="doc-arhitecture">
-    <h2>
-      <span>3. </span>Information Architecture. From Design Patterns to Visual Design
-    </h2>
-    <p>Patterns of Human interaction</p>
-    <ul>
-      <li>Deferred choices - user can log in as guest.</li>
-    </ul>
-    <img src="images/home.PNG" alt="home">
-    <p>Information Architecture</p>
-    <ul>
-      <li>Lists of objects - heroes that user can select;</li>
-      <li>Global navigation - user can go to settings from every screen;</li>
-      <li>Breadcrumbs - navigation between pages.</li>
-    </ul>
-    <img src="images/breadcrumbs.PNG" alt="breadcrumbs">
-    <p>Different communication paradigms in context of augmented/virtual reality.</p>
-    <ul>
-      <li>Textual - information from pregame displayed on the screen;</li>
-      <li>Graphical - material icons placed over the UI;</li>
-      <li>3D - the schene will be a 3D world.</li>
-    </ul>
+  <section id="install" role="doc-introduction">
+      <h2>
+        <span>3. </span>Install instructions</h2>
+      <ul>
+        <li>Change your device settings to <a href="https://www.wikihow.tech/Install-APK-Files-on-Android">Allowing Unknown Sources</a></li>
+        <li>Search for an APK file on <a href="robertunguru.com">Gamion Blog</a>;</li>
+        <li>Download the APK;</li>
+        <li>Install Gamion APK File;</li>
+        <li>Enjoy.</li>
+      </ul>
   </section>
-  <section id="conclusion" role="doc-conclusion">
+  <section id="login" role="doc-arhitecture">
     <h2>
-      <span>4. </span>Conclusion
+      <span>3. </span>Login to the Gamicon
     </h2>
+    <p>You can register or play as guest. If you want to save your progress and heroes stats you will need to have an account.</p>
+    <img src="images/Login.JPG" alt="login"/>
+  </section>
+  <section id="selection" role="doc-conclusion">
+    <h2>
+      <span>4. </span>Choose character
+    </h2>
+    <p>You can choose from multiple heroes, based on their abilities.</p>
+    <ul>
+      <li>Agility makes hero to attack faster; </li>
+      <li>Power to have a greater damage; </li>
+      <li>Health to be more time alive having more Health Points; </li>
+    </ul>
+    <img src="images/CharacterSelection.JPG" alt="selection"/>
+    <img src="images/CharacterPreview.JPG" alt="preview"/>
+  </section>
+  <section id="play" role="doc-conclusion">
+    <h2>
+      <span>5. </span>Play
+    </h2>
+    <p>Before the game start you will need to place camera on top of the marker.</p>
+    <img src="images/pregame.JPG" alt="pregame"/>
     <p>
-      This document has introduced the concept and basic principles of human computer interaction and augumented reality.
+      Your primary game input device is a touch screen.
+      You can control the main character, by clicking
+      pressing the Attack or Defense buttons
     </p>
+    <img src="images/AttackDefence.JPG" alt="attack">
   </section>
-  <section id="biblio-references">
-    <h2>
-      <span>5. </span>References</h2>
-    <dl>
-      <dt id="interaction-design">Interaction Design</dt>
-      <dd property="schema:citation" typeof="schema:ScholarlyArticle" resource="http://asktog.com/atc/principles-of-interaction-design/">
-        <cite property="schema:name">
-          <a href="http://asktog.com/atc/principles-of-interaction-design/">First Principles of Interaction Design (Revised & Expanded)t</a>
-        </cite>, by
-        <span property="schema:author" typeof="schema:Person">
-          <span property="schema:name">ASK TOG</span>
-        </span>;
-        <time property="schema:datePublished" datetime="2014-03" datatype="xsd:gYearMonth">2014 Mar</time>.
-      </dd>
-    </dl>
+  <section id="faq" role="doc-conclusion">
+      <h2>
+        <span>6. </span>Frequently asked questions
+      </h2>
+      <p>How to choose another level?</p><p>In progress feature</p>
+      <p>Where can I leave feedback about app?</p><p>Leave comments on <a href="robertunguru.com">Gamicon blog</a> </p>
+      <p>How to choose another character?</p><p>Tap on image on character selection screen</p>
+      <p>How the stats affects the game?</p><p>The agility makes hero to attack faster; Power to have a greater damage and Health to be more time alive having more Health Points;</p>
   </section>
 </body>
 
